@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\props_am\window_seal"
+    "$model" 1
+}

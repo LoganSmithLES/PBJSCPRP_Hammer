@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/props/office/rooftop/pipeset01"
+	"$envmapmask" 	"models/props/office/rooftop/pipeset01_spec"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .5 .5 .5 ]"
+	"$surfaceprop" "metal"
+}

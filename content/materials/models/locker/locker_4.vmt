@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+         $detail detail\sl_metal_detail_deep
+         $detailscale 2.209
+         $detailblendfactor .65
+         $detailblendmode 0
+
+	"$basetexture" "models/locker/locker_4"
+	"$surfaceprop" "METAL"
+
+
+	"$envmapmask" "models/locker/locker_mask"
+	"$envmaptint" "[ 0.11 0.11 0.21 ]"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+}

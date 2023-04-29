@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture"	"models/s_prop/beach/furni/reception_desk/reception_desk"
+//	"$nocull"		"1"
+
+}

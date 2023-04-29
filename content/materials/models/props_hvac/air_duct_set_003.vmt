@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 			"models/props_HVAC/air_duct_set_003"
+	"$bumpmap"			"models/props_HVAC/air_duct_set_003_normal"
+
+	"$halflambert" 			"1"
+
+	"$phong" 			"1"
+	"$phongexponent" 		"3"
+	"$phongboost" 			"10"
+	"$phongfresnelranges" 		"[0.5 0.5 1]"
+
+	"$envmap"			"env_cubemap"
+	"normalmapalphaenvmapmask"	"1"
+	"$envmaptint" 			"[0.07 0.07 0.07]"
+	"$basetexturealphaenvmapmask"	"1"
+}

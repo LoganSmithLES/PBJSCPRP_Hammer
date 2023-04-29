@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 		"models\props_am\am_lab1_cab_L"
+    
+	"$model" 			"1"
+}

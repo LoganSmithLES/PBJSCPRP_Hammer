@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/HL2_LEAK/METAL/METALDOOR034A.vmt"
+	"insert"
+	{
+		"$envmap"		"maps/rp_scp_glv1/c0_0_0"
+	}
+}

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+
+	"$baseTexture" 	"xen/xen_c1a4a_rock_001a"
+	$bumpmap "models/props_xen/xen_stalactites_group1_normal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.6 0.6 0.6]"
+	"$normalmapalphaenvmapmask" 	"1"
+}

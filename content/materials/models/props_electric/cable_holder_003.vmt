@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 		"models/props_electric/cable_holder_003"
+	"$bumpmap"		"models/props_electric/cable_holder_003_normal"
+
+	"$halflambert" 		"1"
+
+	"$phong" 		"1"
+	"$phongexponent" 	"10"
+	"$phongboost" 		"2"
+	"$phongfresnelranges" 	"[0.5 0.5 1]"
+
+}

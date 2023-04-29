@@ -1,0 +1,17 @@
+
+
+// envmaptint_fix
+"LightmappedGeneric"
+{
+	"$basetexture" "Metal/sl_metal_wall171"
+	"$bumpmap" "Metal/sl_metal_wall171_normal"
+	"$surfaceprop" "metal"
+	"$envmaptint" "[ .9 .9 .8 ]"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+}
+
+
+

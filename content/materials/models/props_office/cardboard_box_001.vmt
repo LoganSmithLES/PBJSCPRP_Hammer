@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 		"models/props_office/cardboard_box_001"
+	"$blendtintbybasealpha"	"1"
+}
+

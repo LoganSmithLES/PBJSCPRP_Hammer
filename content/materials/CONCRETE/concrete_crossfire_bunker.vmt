@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "concrete/concrete_crossfire_bunker"
+	"$bumpmap" "concrete/concrete_crossfire_bunker_normals"
+	"$surfaceprop" "Concrete"
+	"$detail" 			"detail\bm_cinderblock_detail_02"
+	"$detailscale" 		"9"
+	"$detailblendfactor"		"1.0"
+	"$detailblendmode"		"0"
+}

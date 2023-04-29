@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "kanister/site85logo"
+	"$surfaceprop" "Ice"
+	"$nodecal" 1
+	"$translucent" 1
+}

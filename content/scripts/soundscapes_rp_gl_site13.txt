@@ -1,0 +1,271 @@
+//foundation.zone1
+"foundation.zone1"
+{
+	"playlooping"
+	{
+		"wave"	"ttt_foundation/ambience/TheDread.wav"
+		"volume" "0.8"
+	}
+	"playrandom"
+	{
+		"volume" "1"
+		"soundlevel" "SNDLVL_70dB"
+		"pitch" "100"
+		"time" "15,40"
+		"rndwave"
+		{
+			"wave" "ttt_foundation/ambience/Zone1/Ambient1.wav"
+			"wave" "ttt_foundation/ambience/Zone1/Ambient2.wav"
+			"wave" "ttt_foundation/ambience/Zone1/Ambient3.wav"
+			"wave" "ttt_foundation/ambience/Zone1/Ambient4.wav"
+			"wave" "ttt_foundation/ambience/Zone1/Ambient5.wav"
+			"wave" "ttt_foundation/ambience/Zone1/Ambient6.wav"
+			"wave" "ttt_foundation/ambience/Zone1/Ambient7.wav"
+			"wave" "ttt_foundation/ambience/Zone1/Ambient8.wav"
+			"wave" "ttt_foundation/ambience/Zone1/Ambient9.wav"
+		}
+	}
+}
+//foundation.zone2
+"foundation.zone2"
+{
+	"playlooping"
+	{
+		"wave"	"ttt_foundation/ambience/HCZBackground.wav"
+		"volume" "0.8"
+	}
+	"playrandom"
+	{
+		"volume" "1"
+		"soundlevel" "SNDLVL_70dB"
+		"pitch" "100"
+		"time" "15,40"
+		"rndwave"
+		{
+			"wave" "ttt_foundation/ambience/Zone2/Ambient1.wav"
+			"wave" "ttt_foundation/ambience/Zone2/Ambient2.wav"
+			"wave" "ttt_foundation/ambience/Zone2/Ambient3.wav"
+			"wave" "ttt_foundation/ambience/Zone2/Ambient4.wav"
+			"wave" "ttt_foundation/ambience/Zone2/Ambient5.wav"
+			"wave" "ttt_foundation/ambience/Zone2/Ambient6.wav"
+			"wave" "ttt_foundation/ambience/Zone2/Ambient7.wav"
+			"wave" "ttt_foundation/ambience/Zone2/Ambient8.wav"
+			"wave" "ttt_foundation/ambience/Zone2/Ambient9.wav"
+		}
+	}
+}
+//foundation.zone3
+"foundation.zone3"
+{
+	"playlooping"
+	{
+		"wave"	"ttt_foundation/ambience/TheDread.wav"
+		"volume" "0.8"
+	}
+	"playrandom"
+	{
+		"volume" "1"
+		"soundlevel" "SNDLVL_70dB"
+		"pitch" "100"
+		"time" "15,40"
+		"rndwave"
+		{
+			"wave" "ttt_foundation/ambience/Zone3/Ambient1.wav"
+			"wave" "ttt_foundation/ambience/Zone3/Ambient2.wav"
+			"wave" "ttt_foundation/ambience/Zone3/Ambient3.wav"
+			"wave" "ttt_foundation/ambience/Zone3/Ambient4.wav"
+			"wave" "ttt_foundation/ambience/Zone3/Ambient5.wav"
+			"wave" "ttt_foundation/ambience/Zone3/Ambient6.wav"
+			"wave" "ttt_foundation/ambience/Zone3/Ambient7.wav"
+			"wave" "ttt_foundation/ambience/Zone3/Ambient8.wav"
+			"wave" "ttt_foundation/ambience/Zone3/Ambient9.wav"
+		}
+	}
+}
+//foundation.012
+"foundation.012"
+{
+	"playlooping"
+	{
+		"wave"	"ttt_foundation/ambience/012.wav"
+		"volume" "0.8"
+	}
+	"playrandom"
+	{
+		"volume" "1"
+		"soundlevel" "SNDLVL_70dB"
+		"pitch" "100"
+		"time" "15,40"
+		"rndwave"
+		{
+			"wave" "ttt_foundation/ambience/Zone1/Ambient1.wav"
+			"wave" "ttt_foundation/ambience/Zone1/Ambient2.wav"
+			"wave" "ttt_foundation/ambience/Zone1/Ambient3.wav"
+			"wave" "ttt_foundation/ambience/Zone1/Ambient4.wav"
+			"wave" "ttt_foundation/ambience/Zone1/Ambient5.wav"
+			"wave" "ttt_foundation/ambience/Zone1/Ambient6.wav"
+			"wave" "ttt_foundation/ambience/Zone1/Ambient7.wav"
+			"wave" "ttt_foundation/ambience/Zone1/Ambient8.wav"
+			"wave" "ttt_foundation/ambience/Zone1/Ambient9.wav"
+		}
+	}
+}
+//foundation.914
+"foundation.914"
+{
+	"playlooping"
+	{
+		"wave"	"ttt_foundation/ambience/914.wav"
+		"volume" "0.8"
+	}
+	"playrandom"
+	{
+		"volume" "1"
+		"soundlevel" "SNDLVL_70dB"
+		"pitch" "100"
+		"time" "15,40"
+		"rndwave"
+		{
+			"wave" "ttt_foundation/ambience/Zone1/Ambient1.wav"
+			"wave" "ttt_foundation/ambience/Zone1/Ambient2.wav"
+			"wave" "ttt_foundation/ambience/Zone1/Ambient3.wav"
+			"wave" "ttt_foundation/ambience/Zone1/Ambient4.wav"
+			"wave" "ttt_foundation/ambience/Zone1/Ambient5.wav"
+			"wave" "ttt_foundation/ambience/Zone1/Ambient6.wav"
+			"wave" "ttt_foundation/ambience/Zone1/Ambient7.wav"
+			"wave" "ttt_foundation/ambience/Zone1/Ambient8.wav"
+			"wave" "ttt_foundation/ambience/Zone1/Ambient9.wav"
+		}
+	}
+}
+//foundation.939
+"foundation.939"
+{
+	"playlooping"
+	{
+		"wave"	"ttt_foundation/ambience/Room3Storage.wav"
+		"volume" "0.8"
+	}
+	"playrandom"
+	{
+		"volume" "1"
+		"soundlevel" "SNDLVL_70dB"
+		"pitch" "100"
+		"time" "15,40"
+		"rndwave"
+		{
+			"wave" "ttt_foundation/ambience/Zone1/Ambient1.wav"
+			"wave" "ttt_foundation/ambience/Zone1/Ambient2.wav"
+			"wave" "ttt_foundation/ambience/Zone1/Ambient3.wav"
+			"wave" "ttt_foundation/ambience/Zone1/Ambient4.wav"
+			"wave" "ttt_foundation/ambience/Zone1/Ambient5.wav"
+			"wave" "ttt_foundation/ambience/Zone1/Ambient6.wav"
+			"wave" "ttt_foundation/ambience/Zone1/Ambient7.wav"
+			"wave" "ttt_foundation/ambience/Zone1/Ambient8.wav"
+			"wave" "ttt_foundation/ambience/Zone1/Ambient9.wav"
+		}
+	}
+}
+//foundation.AI
+"foundation.AI"
+{
+	"playlooping"
+	{
+		"wave"	"ttt_foundation/ambience/AI.wav"
+		"volume" "0.8"
+	}
+	"playrandom"
+	{
+		"volume" "1"
+		"soundlevel" "SNDLVL_70dB"
+		"pitch" "100"
+		"time" "15,40"
+		"rndwave"
+		{
+			"wave" "ttt_foundation/ambience/Zone2/Ambient1.wav"
+			"wave" "ttt_foundation/ambience/Zone2/Ambient2.wav"
+			"wave" "ttt_foundation/ambience/Zone2/Ambient3.wav"
+			"wave" "ttt_foundation/ambience/Zone2/Ambient4.wav"
+			"wave" "ttt_foundation/ambience/Zone2/Ambient5.wav"
+			"wave" "ttt_foundation/ambience/Zone2/Ambient6.wav"
+			"wave" "ttt_foundation/ambience/Zone2/Ambient7.wav"
+			"wave" "ttt_foundation/ambience/Zone2/Ambient8.wav"
+			"wave" "ttt_foundation/ambience/Zone2/Ambient9.wav"
+			"wave" "ttt_foundation/079/Broadcast1.wav"
+			"wave" "ttt_foundation/079/Broadcast2.wav"
+			"wave" "ttt_foundation/079/Broadcast3.wav"
+			"wave" "ttt_foundation/079/Broadcast4.wav"
+			"wave" "ttt_foundation/079/Broadcast5.wav"
+			"wave" "ttt_foundation/079/Broadcast6.wav"
+			"wave" "ttt_foundation/079/Broadcast7.wav"
+		}
+	}
+}
+//foundation.895
+"foundation.895"
+{
+	"playlooping"
+	{
+		"wave"	"ttt_foundation/ambience/895.wav"
+		"volume" "0.8"
+	}
+	"playrandom"
+	{
+		"volume" "1"
+		"soundlevel" "SNDLVL_70dB"
+		"pitch" "100"
+		"time" "15,40"
+		"rndwave"
+		{
+			"wave" "ttt_foundation/ambience/Zone2/Ambient1.wav"
+			"wave" "ttt_foundation/ambience/Zone2/Ambient2.wav"
+			"wave" "ttt_foundation/ambience/Zone2/Ambient3.wav"
+			"wave" "ttt_foundation/ambience/Zone2/Ambient4.wav"
+			"wave" "ttt_foundation/ambience/Zone2/Ambient5.wav"
+			"wave" "ttt_foundation/ambience/Zone2/Ambient6.wav"
+			"wave" "ttt_foundation/ambience/Zone2/Ambient7.wav"
+			"wave" "ttt_foundation/ambience/Zone2/Ambient8.wav"
+			"wave" "ttt_foundation/ambience/Zone2/Ambient9.wav"
+		}
+	}
+}
+//foundation.PD
+"foundation.PD"
+{
+	"playlooping"
+	{
+		"wave"	"ttt_foundation/ambience/PocketDimension.wav"
+		"volume" "0.8"
+	}
+}
+//foundation.087
+"foundation.087"
+{
+	"playlooping"
+	{
+		"wave"	"ttt_foundation/ambience/087.wav"
+		"volume" "0.8"
+	}
+}
+
+//tropfstein
+
+"stadt.tropfstein"
+{
+	"playlooping"
+	{
+		"wave"	"kiwontatv/Tropfstein.wav"
+		"volume" "0.8"
+	}
+}
+
+//wald sounds
+
+"stadt.wald"
+{
+	"playlooping"
+	{
+		"wave"	"kiwontatv/waldambient.wav"
+		"volume" "0.8"
+	}
+}

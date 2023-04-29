@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/uc2/props_fastfood/vending_machine01d"
+	$bumpmap "models/uc2/props_fastfood/vending_machine_n"
+	
+	$selfillum 1
+	$selfillummask "models/uc2/props_fastfood/vending_machine_lum"
+	$selfillumtint "[ 2 2 1.8 ]"
+	
+	$envmap env_cubemap
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[.2 .2 .2]"
+	
+	$phong "1"
+    $phongtint "[1 1 1]"
+    $phongexponent "150"
+    $phongboost "1"
+    $phongfresnelranges "[1 1 1]"
+	
+	$envmapfresnel 55
+
+}

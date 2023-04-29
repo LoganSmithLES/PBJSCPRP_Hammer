@@ -1,0 +1,8 @@
+
+"LightMappedGeneric"
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"brush/beach/floor_ext/floor_ext_wood_01"
+	"$bumpMap"			"brush/beach/floor_ext/floor_ext_wood_01_normal"
+	"$surfaceprop" 			"wood"
+}

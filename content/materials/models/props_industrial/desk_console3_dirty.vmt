@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\props_industrial\desk_console3_D"
+	"$bumpmap"	"models/props_industrial/desk_console1a_dirty_nm"
+   	"$envmaptint" "[.2 .2 .2]"
+	//"$envmap" 	"env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+    "$model" 1	
+
+
+
+}

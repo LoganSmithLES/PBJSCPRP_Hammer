@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/HR_METAL/HR_METAL_TRIM_A.vmt"
+	"insert"
+	{
+		"$envmap"		"maps/rp_scp_glv1/c0_0_0"
+	}
+}

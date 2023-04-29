@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_electric/emergency_stop_button"
+//"$envmap" "env_cubemap"
+//"$basealphaenvmapmask" "1"
+//"$envmaptint""[0.5 0.5 0.5]"
+
+ "$bumpmap" "models/props_electric/emergency_stop_button_normal"
+
+"$halflambert" "1"
+"$phong" "1"
+"$phongexponent" "30"
+"$phongboost" "3"
+"$phongfresnelranges" "[0.5 0.5 1]"
+	Proxies
+	{
+		UseHighlight
+		{
+			strength 0.2
+		}
+	}
+}

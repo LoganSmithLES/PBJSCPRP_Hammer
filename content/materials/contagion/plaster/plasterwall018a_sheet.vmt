@@ -1,0 +1,7 @@
+"LightMappedGeneric"
+{
+	$basetexture "contagion/plaster/plasterwall018a"
+
+	$surfaceprop "plaster"
+	%keywords "cont, plaster, wall, suburb"
+}

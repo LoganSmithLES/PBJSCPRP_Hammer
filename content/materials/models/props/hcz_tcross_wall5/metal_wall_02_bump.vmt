@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "ttt_foundation\metal_wall_02"
+	"$surfaceprop" "metal"
+	"$bumpmap" "ttt_foundation\metal_wall_02_nrm"
+}

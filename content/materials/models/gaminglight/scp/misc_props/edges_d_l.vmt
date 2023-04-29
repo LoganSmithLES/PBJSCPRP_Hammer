@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "consilio/metal_trims/edges_d_l"
+	"$surfaceprop" "metal"
+
+	"$envmap" "env_cubemap"
+    	"$envmaptint" "[.4 .4 .4]"
+}

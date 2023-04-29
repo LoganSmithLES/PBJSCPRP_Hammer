@@ -1,0 +1,5 @@
+vertexlitgeneric
+{
+$basetexture "stone/stone_floor_03"
+$surfaceprop concrete
+}

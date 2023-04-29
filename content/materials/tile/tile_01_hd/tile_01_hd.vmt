@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	$basetexture 	"tile/tile_01_hd/tile_01_hd"
+	$surfaceprop 	"tile"
+	$bumpmap 		"tile/tile_01_hd/tile_01_hd_ssbump"
+	$envmap 		"env_cubemap"
+	$envmaptint 	"[.20 .20 .20]"
+	$ssbump		1
+	$SSBumpMathFix	1
+
+}
+

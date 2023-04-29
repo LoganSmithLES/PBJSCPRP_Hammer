@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "ttt_foundation\moss_wall_01"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "ttt_foundation\moss_wall_01_nrm"
+}

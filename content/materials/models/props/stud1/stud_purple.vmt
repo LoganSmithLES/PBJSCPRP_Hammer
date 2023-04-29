@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "kanister/stud_purple"
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+}

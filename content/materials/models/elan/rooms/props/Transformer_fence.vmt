@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models\elan\rooms\props/Transformer_fence"
+	$translucent 1
+	$nocull 1
+}

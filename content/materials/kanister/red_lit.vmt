@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+	"$basetexture" "kanister/red_generic"
+	"$surfaceprop" "Default"
+	"$nocull" 1
+	"$nodecal" 1
+}

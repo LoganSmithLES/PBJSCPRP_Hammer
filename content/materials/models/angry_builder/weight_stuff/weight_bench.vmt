@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/angry_builder/weight_stuff/weight_bench"
+	"$bumpmap" "models/angry_builder/weight_stuff/weight_bench_norm"
+	"$surfaceprop" "Metal"
+}

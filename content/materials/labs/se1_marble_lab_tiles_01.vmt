@@ -1,0 +1,13 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "LABS/SE1_marble_lab_tiles_01"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "LABS/SE1_marble_lab_tiles_01_Normal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .25 .25 .25 ]"
+	"$envmapconstrast" "1"
+	"$normalmapalphaenvmapmask" 1
+	"%keywords" "labs"
+} 
+
+

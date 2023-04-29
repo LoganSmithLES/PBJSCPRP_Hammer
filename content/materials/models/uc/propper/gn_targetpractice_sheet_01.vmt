@@ -1,0 +1,15 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "unioncity/misc/gn_targetpractice_sheet_01_d"
+	
+	"proxies"
+	{
+		"materialmodify"
+		{
+		}
+	}
+
+	$nodecal 0
+	
+	$surfaceprop paper
+}

@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\elan\rooms\props/Plant_2"
+	"$surfaceprop" "grass"
+	"$AlphaTest" "1"
+	"$AlphaTestReference" "0.5"
+	"$AllowAlphaToCoverage" "1"
+	"$FlashlightNoLambert" "1"
+	"$model" 1
+	"$nocull" 1
+}
+

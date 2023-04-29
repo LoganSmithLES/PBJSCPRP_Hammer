@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "kanister/felswand"
+	"$surfaceprop" "Rock"
+	"$bumpmap" "kanister/rock_wall_nrm"
+}

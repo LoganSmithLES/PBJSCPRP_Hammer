@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "halo_textures/halo_metal021"
+	"$surfaceprop" "metal"
+}

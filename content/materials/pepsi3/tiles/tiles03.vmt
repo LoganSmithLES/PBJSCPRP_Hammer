@@ -1,0 +1,19 @@
+"LightmappedGeneric"
+{
+	$basetexture "pepsi3/tiles/tiles03"
+	$bumpmap "pepsi3/tiles/tiles03n"
+	$surfaceprop "tile"
+
+	$reflectivity "[0.62 0.62 0.62]"
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.3 0.3 0.3]"
+	$fresnelreflection 0.6
+	$envmaplightscale 1
+
+	$phong 1
+	$phongexponent 120
+                $phongMaskContrastBrightness "[3 1]"
+                $phongAmount "[1.7 1.6 1.5 1]"
+}

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gaminglight/doors/base_door_01"
+	"$bumpmap" "gaminglight/doors/base_door_01_n"
+	"$surfaceprop" "Metal"
+	"$selfillum" "1"
+}

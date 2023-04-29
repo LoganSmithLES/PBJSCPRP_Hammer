@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_pipes/metal_pipe_001_valve_002"
+	"$bumpmap"		"models/props_pipes/metal_pipe_set_003_normal"
+	
+
+	"$blendtintbybasealpha"	"1"
+
+
+
+	"$halflambert" 		"1"
+
+	"$phong" 		"1"
+	"$phongexponent" 	"10"
+	"$phongboost" 		"2"
+	"$phongfresnelranges" 	"[0.5 0.5 1]"
+}

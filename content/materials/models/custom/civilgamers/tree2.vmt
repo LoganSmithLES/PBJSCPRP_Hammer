@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/rp_scpfoundation_v8/tree2"
+	"$surfaceprop" "Wood_Solid"
+	"$alphatest" 1
+}

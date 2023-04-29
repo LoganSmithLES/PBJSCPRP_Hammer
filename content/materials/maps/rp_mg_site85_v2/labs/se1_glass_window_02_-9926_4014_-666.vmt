@@ -1,0 +1,9 @@
+"patch"
+{
+	"include"		"materials/LABS/SE1_GLASS_WINDOW_02.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_mg_site85_v2/c-9926_4014_-666"
+		"$crackmaterial"		"maps/rp_mg_site85_v2/labs/se1_glass_break_02_-9926_4014_-666"
+	}
+}

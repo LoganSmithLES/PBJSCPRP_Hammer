@@ -1,0 +1,12 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "metal\office_windowtrim"
+	"$surfaceprop" "metal"
+
+        "$detail" "detail\bm_metal_detail_01"
+	"$detailscale" "6.283"
+	"$detailblendfactor" .8
+	"$detailblendmode" 0
+		
+	"%keywords" "bms, jenn0"
+}

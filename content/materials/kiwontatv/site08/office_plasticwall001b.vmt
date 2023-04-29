@@ -1,0 +1,6 @@
+vertexlitgeneric
+{
+$basetexture "plastic/office_plasticwall001b"
+$surfaceprop default
+"%noportal" 1
+}

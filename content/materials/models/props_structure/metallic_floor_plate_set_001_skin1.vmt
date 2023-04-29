@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_structure/metallic_floor_plate_set_001_skin1"
+	"$bumpmap"	"models/props_structure/metallic_floor_plate_set_001_bump"
+
+	"$halflambert" 		"1"
+
+	"$phong" 		"1"
+	"$phongexponent" 		"1"
+	"$phongboost" 		"0.5"
+	"$phongfresnelranges" 	"[0.5 0.5 1]"
+
+	"$blendtintbybasealpha"	"1"
+}

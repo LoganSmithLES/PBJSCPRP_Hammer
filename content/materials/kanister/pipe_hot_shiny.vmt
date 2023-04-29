@@ -1,0 +1,16 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "kanister/pipe_hot_mask3"
+	"$surfaceprop" "metal"
+	//"$bumpmap" "kanister/pipe_hot_nrm"
+	//"$envmap" "env_cubemap"
+	//"$envmapconstrast" "1"
+	"$selfillum" "1"
+	//"$selfillummask" "kanister/pipe_hot_mask1"
+	//"$normalmapalphaenvmapmask" 1
+	//"$envmaptint" "[1 1 1]"
+	//$detail "kanister/pipe_hot_mask3"
+	//$detailscale 1        //scales the detail texture to same size as diffuse.
+	//$detailblendfactor 1  //lower values make the texture less visible. 0.0 - 1.0
+	//$detailblendmode 5    //6 also works.
+}

@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "custom\bed\exit_sign"
+	"$surfaceprop" "concrete"
+
+	  $translucent 1
+}
+

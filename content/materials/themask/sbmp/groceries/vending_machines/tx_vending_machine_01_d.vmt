@@ -1,0 +1,33 @@
+"VertexLitGeneric"
+{
+
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	//"$envmapfresnel" ".2"
+	"$envmaptint"	"[.07 .07 .07]"
+
+
+	"$baseTexture" 		"themask/SBMP/Groceries/Vending_Machines/tx_vending_machine_01_d"
+	"$translucent"		"0"
+	"$alphatest" 		"0"
+
+	"$bumpmap" 		"themask/SBMP/Groceries/Vending_Machines/tx_vending_machine_01_d_N"
+
+	//"$Lightwarptexture"	"themask/shared/lightwarp_thor"
+
+
+	"$phong" "1"
+	//"$phongexponent" "64"
+	"$phongexponenttexture" 	"themask/SBMP/Groceries/Vending_Machines/tx_vending_machine_01_d_S"
+	//"$phongwarptexture"		"themask/SBMP/Groceries/shared/anisotropic"
+	"$phongalbedotint" "1"
+	"$phongboost" "24" 
+	"$phongfresnelranges"	"[.1 .7 1]"
+
+	//"$detail" "themask/SBMP/Groceries/Vending_Machines/tx_vending_machine_01_d"
+	$detailscale 1
+	$detailblendfactor 0
+	$detailblendmode 0
+
+}

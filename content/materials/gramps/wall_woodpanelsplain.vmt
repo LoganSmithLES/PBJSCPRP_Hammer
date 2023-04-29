@@ -1,0 +1,6 @@
+"LightMappedGeneric"
+{
+	"$baseTexture"			"gramps/wall_woodpanelsplain"
+	"$bumpMap"			"gramps/wall_woodpanelsplain_normal"
+	"$surfaceprop" "Wood_Panel"
+}

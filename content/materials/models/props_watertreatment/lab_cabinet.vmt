@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_watertreatment/lab_cabinet"
+	"$blendtintbybasealpha"		"1"
+}

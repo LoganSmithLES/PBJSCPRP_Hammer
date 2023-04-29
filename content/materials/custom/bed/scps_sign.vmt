@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "custom\bed\scps_sign"
+	"$surfaceprop" "concrete"
+
+	  $translucent 1
+}
+

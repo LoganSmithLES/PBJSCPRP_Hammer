@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "misc/laboratory_floor"
+        "$bumpmap" "misc/laboratory_floor_ssbump"
+"$ssbump" "1"
+"$ssbumpmathfix" "1"
+	"$surfaceprop" "concrete"
+	"$envmap" "env_cubemap"
+        "$envmaptint" "[ .1 .1 .1 ]"	
+}

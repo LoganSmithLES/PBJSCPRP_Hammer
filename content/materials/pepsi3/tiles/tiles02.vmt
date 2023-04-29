@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	$basetexture "pepsi3/tiles/tiles02"
+	$bumpmap "pepsi3/tiles/tiles02n"
+	$surfaceprop "tile"
+}

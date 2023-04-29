@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "decals\deco\metalventcover4_ivy"
+	"$decal" 1
+	"$decalscale" 0.25
+	"$surfaceprop" "metal"
+        "%keywords" "neotokyo"
+}

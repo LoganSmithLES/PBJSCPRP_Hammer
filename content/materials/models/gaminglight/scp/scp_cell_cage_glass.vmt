@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/gaminglight/scp/scp_cell_cage_glass"
+	"$translucent" 1
+}

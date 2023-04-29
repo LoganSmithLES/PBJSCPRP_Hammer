@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "kanister/transparent"
+	"$surfaceprop" "Default"
+	"$nodecal" 1
+	"$translucent" 1
+}

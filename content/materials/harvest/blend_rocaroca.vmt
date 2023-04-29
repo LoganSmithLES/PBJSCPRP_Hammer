@@ -1,0 +1,17 @@
+"WorldVertexTransition"
+{
+  
+   
+   
+   "$basetexture" "nature/cavewall005a"
+   "$bumpmap" "nature/cliffface001a_normal"
+"$surfaceprop" "dirt"
+
+
+ "$basetexture2" "harvest/roca1bl"
+ "$bumpmap2" "harvest/blank_normal"
+
+   "%tooltexture" "harvest/roca1bl"
+        "$basetexturetransform" "center .5 .5 scale 1 1 rotate 0  translate 0 0"
+        "$basetexturetransform2" "center .5 .5 scale 4 4 rotate 0 translate 0 0"
+} 

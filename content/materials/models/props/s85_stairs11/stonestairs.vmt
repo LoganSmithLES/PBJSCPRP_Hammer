@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "unioncity/misc/stonestairs"
+	
+	$surfaceprop concrete
+
+}

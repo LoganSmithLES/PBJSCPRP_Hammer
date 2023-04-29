@@ -1,0 +1,13 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "WAREHOUSE/SE1_metal_corrugated_04b"
+	"$bumpmap" "WAREHOUSE/SE1_metal_corrugated_03_normal"
+	"$envmap" "env_cubemap"
+        "$envmapconstrast" "1"
+	"$envmaptint" "[ .5 .5 .5]"
+	"$normalmapalphaenvmapmask" 1
+	"$surfacetype" "metal"
+	"%keywords" "warehouse"
+} 
+
+

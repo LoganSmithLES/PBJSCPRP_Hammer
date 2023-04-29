@@ -1,0 +1,6 @@
+"unlitgeneric"
+{
+	// original shader: sphericalenvmap
+	"$envmap" "dev/dev_envmap"
+	//"$envmapsphere" 1
+}

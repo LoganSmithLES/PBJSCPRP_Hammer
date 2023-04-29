@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+   "$basetexture" "ttt_foundation\fullsite_lockdown"
+   "$surfaceprop" "glass"
+   "Proxies"
+   {
+      "AnimatedTexture"
+      {
+         "animatedtexturevar" "$basetexture"
+         "animatedtextureframenumvar" "$frame"
+         "animatedtextureframerate" "1"
+      }
+   }
+}

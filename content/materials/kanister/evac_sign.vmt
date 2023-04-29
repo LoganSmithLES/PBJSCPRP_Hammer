@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "kanister/evac_sign"
+	"$surfaceprop" "Metal"
+	"$translucent" 1
+}

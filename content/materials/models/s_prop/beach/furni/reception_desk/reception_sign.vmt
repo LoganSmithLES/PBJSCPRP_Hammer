@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture"	"models/s_prop/beach/furni/reception_desk/reception_sign"
+	"$alpha"			"1"
+	"$envMap"		"env_cubemap"
+	"$envMapTint"		"[0.6 0.5 0.5]"
+	"$baseAlphaEnvMapMask"	"1"
+	
+}

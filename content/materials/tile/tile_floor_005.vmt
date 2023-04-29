@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "tile/tile_floor_005"
+        "$bumpmap"    "tile/tile_floor_005_ssbump"
+"$ssbump" "1"
+"$ssbumpmathfix" "1"
+	"$surfaceprop" "Tile"
+	"$envmap" 			"env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+}

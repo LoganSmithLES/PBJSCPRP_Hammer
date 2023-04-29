@@ -1,0 +1,27 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models\elan\rooms\props/Door_frame"
+	$bumpmap "models\elan\rooms\props/Door_frame_n"
+	$phongexponenttexture "models\elan\rooms\props/Door_frame_phong"
+
+	"$envmaptint" 			"[0.02 0.02 0.02]"
+	"$envmapfresnel"		"1"
+	"$envmapFresnelMinMaxExp"	"[0 5 .4]"
+
+	"$normalmapalphaenvmapmask" 	"1"
+	"$normalmapalphaphongmask"    	"1"
+
+	"$phong"     			"1"
+	"$phongboost"   		"0.8"
+	"$phongalbedotint"		"1"
+	"$phongfresnelranges"       	"[0.5 0.9 1]"
+
+	"$rimlight" 			"1"
+	"$rimlightexponent" 		"70"	
+	"$rimlightboost"		"0.5"
+	"$rimmask" 			"1"
+}
+
+
+
+

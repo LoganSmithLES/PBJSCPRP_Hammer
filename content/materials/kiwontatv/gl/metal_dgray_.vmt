@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+  "$basetexture" "b_metal/metal_dgray"
+  "$surfaceprop" "metal"
+
+
+}

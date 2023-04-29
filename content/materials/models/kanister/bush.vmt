@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\kanister\bush"
+	"$alphatest" "1"
+	"$nocull" "1"
+	"$model" "1"
+
+}

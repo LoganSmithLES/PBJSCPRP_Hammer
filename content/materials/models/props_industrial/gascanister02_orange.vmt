@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_industrial/gascanister02_orange"
+	"$bumpmap" "models/props_industrial/gascanister02_nm"
+	"$model"			"1"
+	"$surfaceprop"			"metal"
+//	"$envmap"			"env_cubemap"
+   	"$envmaptint"			"[.2 .2 .2]"
+	"$envmapsaturation"		"0.15"
+"$phong" "1"
+"$phongexponent" "10"
+"$phongboost" "5"
+"$phongfresnelranges"	"[0.2 .5 1.6]"
+"$phongalbedotint" "1"
+"$PhongWarpTexture"	"models\props_am\am_ams_phongwarp"
+
+
+// Rim lighting parameters
+"$rimlight" "1"
+"$rimlightexponent" "25"
+"$rimlightboost" "0.25"
+}

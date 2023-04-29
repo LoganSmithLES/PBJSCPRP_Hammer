@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "kanister/gen_template2"
+	"$surfaceprop" "Metal"
+	"$nocull" 1
+	"$nodecal" 1
+}

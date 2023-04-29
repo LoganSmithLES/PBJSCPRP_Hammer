@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$basetexture "models/grillsprops/JailMetal"
+
+	$envmap "env_cubemap"
+	$envmapmask "models/grillsprops/JailMetalSpec"
+}

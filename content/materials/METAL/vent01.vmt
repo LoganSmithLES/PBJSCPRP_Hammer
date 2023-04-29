@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+$baseTexture "metal/vent01"
+$decal 1
+$surfaceprop metalvent
+}

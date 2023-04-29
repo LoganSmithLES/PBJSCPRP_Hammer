@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/CONCRETE/CONCRETE_FLOOR_TNNLFLR7D.vmt"
+	"insert"
+	{
+		"$envmap"		"maps/rp_scp_glv1/c0_0_0"
+	}
+}

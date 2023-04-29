@@ -1,0 +1,10 @@
+vertexlitgeneric
+{
+$basetexture "stone/stone_floor_03"
+$surfaceprop "concrete"
+$bumpmap "stone/stone_floor_03_normal"
+"$envmap" "env_cubemap"
+"$envmapsaturation" 1
+"$envmapcontrast" 1
+"$envmaptint" "[ .3 .3 .3 ]"
+}

@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_industrial/bm_oiltank01"
+	"$bumpmap"  "models/props_industrial/bm_oiltank_nm"
+	"$surfaceprop" "Metal"
+	"$envmap" "env_cubemap" 
+   	"$envmaptint" "[.90 .90 .90]"
+	"$normalmapalphaenvmapmask" "1"
+}

@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture"	"models/s_prop/beach/furni/kitchen_cooker/kitchen_cooker_gl"
+	"$envmap"			"env_cubemap"
+	"$envmaptint"			"[0.2 0.2 0.2]"
+	"$surfaceprop" 			"glass"
+	"$alpha"				"1"
+	"$translucent"			"1"
+
+}

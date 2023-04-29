@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "ttt_foundation\glass_01"
+	"$surfaceprop" "glass"
+	"$envmap" "env_cubemap"
+
+	"$additive" "1"
+	"$translucent" 1
+	"$nocull" "1"
+}

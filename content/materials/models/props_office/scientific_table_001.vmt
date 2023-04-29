@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_office/scientific_table_001"
+	"$nocull" 1
+}

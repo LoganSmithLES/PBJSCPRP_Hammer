@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture"	"models/s_prop/slasher/light/garden_lamp/garden_lamp"
+	"$alpha"		"1"
+	"$selfillum"	"1"
+}

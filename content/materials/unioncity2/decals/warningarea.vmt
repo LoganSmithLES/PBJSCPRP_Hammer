@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "unioncity2/decals/warningarea"
+	
+	$translucent 1
+	
+	$decal 1
+}

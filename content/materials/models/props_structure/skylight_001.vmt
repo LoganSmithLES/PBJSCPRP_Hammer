@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$baseTexture"	"models/props_structure/skylight_001"
+
+	//phong
+	"$phong" "1"
+	"$basemapalphaphongmask" 1
+	"$phongboost"   "0.5"
+	"$phongfresnelranges" "[1 1 1]"
+	"$phongalbedotint" "1"
+	"$phongexponent"	"35"
+
+	//rimlight
+	"$rimlight"	"1"
+	"$rimlightboost"	"0.5"
+	"$rimlightfresnelranges" "[1 0.9 1]"
+	"$rimlightexponent"	"35"
+}
+

@@ -1,0 +1,13 @@
+LightmappedGeneric
+{
+$basetexture "agency\glass\glass01"
+$surfaceprop glass
+$translucent 1
+$nocull 1
+$envmap env_cubemap
+$envmapsaturation "1"
+$envmapcontrast "1"
+$envmaptint "[0.9 0.9 0.92]"
+$crackmaterial "agency\glass\glass01_break"
+"%keywords" agency
+}

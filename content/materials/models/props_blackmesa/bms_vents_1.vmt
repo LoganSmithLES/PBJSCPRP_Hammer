@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 	"models\props_blackmesa\bms_vents_1"
+    "$model" 		1
+
+}

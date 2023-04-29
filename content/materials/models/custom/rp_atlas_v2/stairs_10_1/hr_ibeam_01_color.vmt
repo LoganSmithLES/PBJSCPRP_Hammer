@@ -1,0 +1,17 @@
+"vertexlitgeneric"
+{
+	"$basetexture"  "metal/hr_metal/hr_ibeam_01_color"
+	"$surfaceprop" "metal"
+	
+
+	
+
+
+	
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" 		"[.5 .5 .5]"	
+	"$detail" 				"detail\detailconcrete001a"
+	"$detailscale" 			"[ 2 2 2 ]"
+	"$detailblendfactor" 	"1"
+}

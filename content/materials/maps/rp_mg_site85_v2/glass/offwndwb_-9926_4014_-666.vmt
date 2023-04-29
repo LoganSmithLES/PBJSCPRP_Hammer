@@ -1,0 +1,13 @@
+"patch"
+{
+	"include"		"materials/GLASS/OFFWNDWB.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_mg_site85_v2/c-9926_4014_-666"
+		"$crackmaterial"		"maps/rp_mg_site85_v2/glass/offwndwb_break_-9926_4014_-666"
+		"Lightmappedgeneric_HDR_dx9"
+		{
+			"$crackmaterial"		"maps/rp_mg_site85_v2/glass/offwndwb_break_-9926_4014_-666"
+		}
+	}
+}

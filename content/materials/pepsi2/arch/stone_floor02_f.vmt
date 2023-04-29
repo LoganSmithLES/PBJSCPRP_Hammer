@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	$basetexture "pepsi2/arch/stone_floor02_f"
+	$bumpmap "pepsi2/arch/stone_floor02_f_nrm"
+	$surfaceprop Concrete
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[.3 .3 .3]"
+}

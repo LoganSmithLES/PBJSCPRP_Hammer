@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "kanister/tiles_blue"
+	"$bumpmap" "kanister/tiles_blue_nrm"
+	"$surfaceprop" "Tile"
+}

@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"models/custom/clusters/rp_scp_bed/crates_0"
+	"$bumpmap"	"models/custom/clusters/rp_scp_bed/crates_normal_0"
+
+	"$phong" "1"
+	"$phongexponent" 5
+	"$phongboost"	"0.5"
+	"$phongfresnelranges"	"[1 2 4]"
+	"$halflambert" 1
+	"$multipass" 1
+	"$model" "1"
+	"$rimlight" "1"				// To enable rim lighting (requires phong)
+	"$rimlightexponent" "45"		// Exponent for phong component of rim lighting
+	"$rimlightboost" ".1"			// Boost for ambient cube component 
+}

@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "metal/metal_007b"
+	"$surfaceprop" "MetalPanel"
+
+	"$envmap" 			"env_cubemap"
+	"$basealphaenvmapmask" 		"1"
+	"$envmaptint"			"[0.2 0.22 0.3]"
+}

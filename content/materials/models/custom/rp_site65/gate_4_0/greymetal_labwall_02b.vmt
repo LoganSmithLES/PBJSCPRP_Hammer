@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "lab\greymetal_labwall_02b"
+	"$surfaceprop" "metal"
+
+	"%keywords" "bms, jenn0"
+
+}

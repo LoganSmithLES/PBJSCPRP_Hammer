@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "foundation\door02_b"
+	"$surfaceprop" "metal"
+}

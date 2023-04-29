@@ -1,0 +1,9 @@
+vertexlitgeneric
+{
+	"$basetexture"	"metal\generic015h"
+	//"$envmap" "env_cubemap"
+   	//"$envmaptint" "[.1 .1 .1]"
+
+	"$surfaceprop" "metal"
+	"%keywords" "bms, andrea"
+}

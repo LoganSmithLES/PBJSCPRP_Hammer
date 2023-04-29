@@ -1,0 +1,13 @@
+// envmaptint_fix
+"LightmappedGeneric"
+{
+	"$basetexture" "kanister/metalroof004a"
+	"$surfaceprop" "metal"
+	"%keywords" "analsex"
+	"$envmap" "env_cubemap"
+	"$bumpmap" "kanister/metalroof004a_normal"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .5 .5 .5]"
+}

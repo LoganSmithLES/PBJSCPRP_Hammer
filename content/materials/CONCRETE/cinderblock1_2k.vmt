@@ -1,0 +1,18 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "concrete/cinderblock1_2k"
+	"$surfaceprop" "concrete"
+                "$bumpmap" "concrete/cinderblock1_nm_2k"
+
+	$basetexturetransform "center 1 1 scale 2 2 rotate 0 translate .50 0"
+	$bumptransform  "center 1 1 scale 2 2 rotate 0 translate .50 0"
+
+
+        "$detail" "detail\bm_cinderblock_detail_01"
+	"$detailscale" "6.283"
+	"$detailblendfactor" .8
+	"$detailblendmode" 0
+	
+	
+	"%keywords" "bms,fleistad"
+}

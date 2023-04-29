@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "gmod_tower/casino/wood_clean01_dark"
+	"$surfaceprop" "wood_solid"
+}

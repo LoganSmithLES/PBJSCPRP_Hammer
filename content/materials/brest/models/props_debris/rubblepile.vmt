@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "brest/models/props_debris/rubblepile"
+	"$bumpmap" "brest/models/props_debris/rubblepile_normal"
+}

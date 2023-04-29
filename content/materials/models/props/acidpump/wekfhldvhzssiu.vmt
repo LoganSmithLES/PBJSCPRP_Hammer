@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "pk01/pk01_roof01"
+	"$bumpmap" "pk01/pk01_roof01_normal"
+	
+	"$surfaceprop" "metal"
+	
+	"%keywords" "pk01"
+}

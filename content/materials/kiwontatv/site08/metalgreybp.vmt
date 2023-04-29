@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "sgtsicktextures/metalgreybp"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "metal"
+	"%keywords" "bp"
+}

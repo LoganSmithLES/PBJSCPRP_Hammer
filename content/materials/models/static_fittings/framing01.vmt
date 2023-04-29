@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	$basetexture				"models\static_fittings\framing01"
+	// "$bumpmap"	"effects/flat_normal"
+	// "$phong" 					"1"
+	// "$phongboost" 				"1"	
+	// "$phongfresnelranges"		"[.05 5 1]"
+	//  $phongalbedotint	1
+}
+
+

@@ -1,0 +1,15 @@
+"LightmappedGeneric"
+{
+	"$basetexture"          "brick/brick_005d"
+	"$bumpmap"		"brick/brick_005_ssbump"
+"$ssbump" "1"
+"$ssbumpmathfix" "1"
+	"$surfaceprop" 		"brick"
+	"$envmap" "env_cubemap"
+   	"$envmaptint" "[.3 .3 .3]"
+	"$normalmapalphaenvmapmask" 1	
+
+	"$detail" "detail\plaster_detail_01"
+	"$detailscale" "7.792"
+	"$detailblendfactor" .7
+}

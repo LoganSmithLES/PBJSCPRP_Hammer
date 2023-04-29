@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "ttt_foundation\sign_door_01"
+	"$translucent" "1"
+}

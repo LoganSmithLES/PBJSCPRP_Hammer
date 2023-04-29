@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "realworldtextures/newer/3/tile_3_14"
+	"$bumpmap" "realworldtextures/newer/3/tile_3_14_nrm"
+	"$surfaceprop" "tile"
+}

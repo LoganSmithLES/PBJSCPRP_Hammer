@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "jesterscp/wall2"
+	$surfaceprop concrete
+}

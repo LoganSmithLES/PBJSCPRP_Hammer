@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/kanister/cattails"
+	"$selfIllum" 0
+	"$receiveflashlight" 1
+	"$AlphaTest" "1"
+	"$AlphaTestReference" "0.55"
+	"$AllowAlphaToCoverage" "1"
+	"$FlashlightNoLambert" "1"
+	"$alpha" 1
+	"$nocull" 1
+	"$model" 1
+}

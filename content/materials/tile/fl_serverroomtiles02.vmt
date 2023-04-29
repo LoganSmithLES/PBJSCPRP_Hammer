@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "tile/fl_serverroomtiles02"
+	"$bumpmap" "tile/fl_serverroomtile_nm"
+	"$surfaceprop" "Tile"
+}

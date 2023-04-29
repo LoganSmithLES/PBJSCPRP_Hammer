@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "metal/baggage_ibeam"
+	"$surfaceprop" "metal"
+	"$detail" 			"detail\metal_detail_01"
+	"$detailscale" 		"[ 4 8 ]"
+	"$detailblendfactor" "1"
+	"$detailblendmode" 	"0"
+}

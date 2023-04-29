@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/BRICK/FIFTIES_W12_NO-TRIM.vmt"
+	"insert"
+	{
+		"$envmap"		"maps/rp_scp_glv1/c0_0_0"
+	}
+}

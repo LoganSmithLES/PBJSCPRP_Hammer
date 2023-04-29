@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+$baseTexture "metal/freezerwall01"
+$surfaceprop metalvent
+$Bumpmap "metal/freezerwall01-ssbump"
+$SSBump 1
+}

@@ -1,0 +1,7 @@
+vertexlitgeneric
+{
+    $basetexture                "glass\glass_bullet_proof"
+    $surfaceprop                "glass"
+    $translucent                "1"
+    %keywords                   "cont, glass"
+}

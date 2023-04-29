@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture"  "metal/metalwall_005"
+	"$bumpmap" 	"metal/metalwall_005_ssbump"
+	"$ssbump" "1"
+	"$ssbumpmathfix" "1"
+	"$surfaceprop" "MetalPanel"
+
+	"$envmap" 			"env_cubemap"
+	"$normalmapalphaenvmapmask" 		"1"
+	"$envmaptint"			"[0.1 0.1 0.1]"
+}

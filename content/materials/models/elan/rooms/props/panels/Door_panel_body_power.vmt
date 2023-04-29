@@ -1,0 +1,17 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models\elan\rooms\props/panels/Door_panel_body_power"
+	$bumpmap "models\elan\rooms\props/panels/Door_panel_body_n"
+	"$surfaceprop" "metal"
+	$envmap "env_cubemap"
+	$envmaptint "[ .075 .075 .075 ]"
+//	$basealphaenvmapmask 1
+
+	$selfillum 1
+	$selfillummask "models\elan\rooms\props/panels/Door_panel_body_power_em"
+
+	$phong  		"1"
+	$phongexponent  	"35"
+	$phongboost  "0.25"
+	$phongfresnelranges  "[1 3 6]"
+}

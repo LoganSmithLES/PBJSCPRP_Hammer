@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+$vertexcolor 1
+$vertexalpha 1
+
+"$basetexture" "decals/hazard_stripe_001"
+
+$decal 1
+$decalscale .05
+}

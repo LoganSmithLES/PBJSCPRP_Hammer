@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_electric/cable_holder_002"
+	"$blendtintbybasealpha"	"1"
+}

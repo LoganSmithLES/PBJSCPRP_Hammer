@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+         $detail detail\sl_metal_detail_deep
+         $detailscale 3.209
+         $detailblendfactor .95
+         $detailblendmode 0
+
+	"$basetexture" "models/FLOODLIGHT/FLOODLIGHT2"
+	"$surfaceprop" "METAL"
+
+
+	"$envmapmask" "models/FLOODLIGHT/FLOODLIGHT_mask"
+	"$envmaptint" "[ 0.11 0.11 0.11 ]"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+}

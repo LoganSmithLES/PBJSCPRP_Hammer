@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 		"models/props_office/tray_rack"
+
+	"$envmap"		"env_cubemap"
+	"$envmaptint" 		"[0.2 0.2 0.25]"
+	"$normalmapalphaenvmapmask"	"1"
+
+	"$bumpmap"		"models/props_office/tray_rack_normal"
+	"$halflambert" 		"1"
+
+	"$phong" 		"1"
+	"$phongexponent" 	"10"
+	"$phongboost" 		"2"
+	"$phongfresnelranges" 	"[0.5 0.5 1]"
+
+	"$detail" 		"wood/wood_trim_001b"
+	"$detailtexturetransform" "center 0.5 0.5 scale 3 3 rotate 90 translate 0 0"
+	"$detailblendfactor" 	"4"
+	"$detailblendmode" "0"
+}
+

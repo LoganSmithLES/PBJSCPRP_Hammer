@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 		"models/props_office/paper_stack_001"
+	"$nocull"			"1"
+
+}
+

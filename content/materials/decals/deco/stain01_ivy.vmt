@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$translucent" 1
+	"$baseTexture" "decals\deco\stain01_ivy"
+	"$decal" 1
+	"$decalscale" 0.18
+	"$surfaceprop" "metal"
+        "%keywords" "neotokyo"
+}

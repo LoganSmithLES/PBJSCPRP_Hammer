@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "gaminglight/decals/ceiling_light_1"
+	"$decal" "1"
+	"$decalscale" "0.1"
+	"$surfaceprop" "metal"
+	"$translucent" "1"
+}

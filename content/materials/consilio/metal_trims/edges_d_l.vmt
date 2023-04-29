@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	$basetexture "consilio/metal_trims/edges_d_l"
+	$bumpmap "consilio/metal_trims/edges_n"
+	$surfaceprop Metal
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+
+	$phong 1
+	$phongexponent 5
+	$phongamount "[1 1 1 1]"
+}

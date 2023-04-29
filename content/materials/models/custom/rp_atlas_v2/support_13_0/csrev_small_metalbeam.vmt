@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "metal\csrev_small_metalbeam"
+	"$surfaceprop" "solidmetal"	
+	"%keywords" "bms, csrev"
+}

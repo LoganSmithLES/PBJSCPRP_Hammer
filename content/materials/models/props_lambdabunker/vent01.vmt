@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_lambdabunker/vent01"
+	"$bumpmap" "models/props_lambdabunker/vent01_nm"
+	"$envmap" "env_cubemap" 
+	"$normalmapalphaenvmapmask" "1"
+"$envmaptint" "[.2 .2 .2]"
+$phong 1
+        $phongexponent 7
+        $phongboost 2
+        $phongtint "[.5 .5 .5]"
+        $halflambert 0
+        $phongfresnelranges "[.4 .8 30]"
+
+// Rim lighting parameters
+	"$rimlight" "1"				// To enable rim lighting (requires phong)
+	"$rimlightexponent" "80"             // Exponent for phong component of rim lighting
+	"$rimlightboost" ".3"	               // Boost for ambient cube component of rim lighting
+"$model" 1
+}

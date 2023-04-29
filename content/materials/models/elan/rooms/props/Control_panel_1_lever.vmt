@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models\elan\rooms\props/Control_panel_1_lever"
+
+	$phong  		"1"
+	$phongexponent  	"35"
+	$phongboost  "0.25"
+	$phongfresnelranges  "[1 3 6]"
+}

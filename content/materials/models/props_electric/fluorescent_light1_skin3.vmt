@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 		"models/props_electric/fluorescent_light1_skin3"
+	"$selfillum"		"1"
+}

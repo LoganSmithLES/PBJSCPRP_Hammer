@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "ttt_foundation/concrete_wall_14"
+	"$bumpmap" "ttt_foundation/concrete_wall_14_nrm"
+}

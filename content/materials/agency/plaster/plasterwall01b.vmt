@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	$basetexture "agency\plaster\plasterwall01b"
+	$bumpmap "agency\plaster\plasterwall01b_n"
+	$envmap env_cubemap
+	$normalmapalphaenvmapmask "1"
+	$envmapsaturation "1"
+	$envmapcontrast "1"
+	$envmaptint "[1 1 1]"
+	$surfaceprop plaster
+}

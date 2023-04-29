@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "ttt_foundation\tile_ceiling_02"
+	"$surfaceprop" "concrete"
+}

@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+    "$basetexture" "concrete/concrete_floor_tnnlflr7d"
+    "$surfaceprop" "concrete"
+    "$bumpmap" "concrete/concrete_floor_tnnlflr7d_normal"
+	"$envmap" "env_cubemap"
+    "$envmaptint" "[.01 .01 .01]"
+	"%keywords" "bms, power up, c2a1*"
+	"$normalmapalphaenvmapmask" 1	
+	"$detail" "detail\bm_concrete_detail_02"
+	"$detailscale" 4
+	"$detailblendfactor" .52
+	"$detailblendmode" 0
+}

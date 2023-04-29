@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/MARK2580/GTAV/MP_APA_06/AK_DLC_FLOORTRIM_WOOD.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_mg_site85_v2/c-9926_4014_-666"
+	}
+}

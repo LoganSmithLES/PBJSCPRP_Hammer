@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/liquids/militiawater.vmt"
+	"insert"
+	{
+		"$waterdepth"		"320"
+	}
+}

@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture"				"models\static_fortifications\concrete_barrier_02_dm"
+	"$bumpmap" 					"models\static_fortifications\concrete_barrier_02_nm"
+//	"$phong" 					"1"
+//	"$phongtint" 			"[.5 .6 .7]"
+	//"$phongtint" 			"[1 .8 .6]"
+//	"$phongexponent"			"15"
+//	"$phongboost" 				"0.5"	
+//	"$phongfresnelranges"		"[0.5 2.5 1.5]"
+	
+$detail detail\ir_concrete03_detail
+$detailscale 09
+//$detailblendfactor 2
+//$detailblendmode 0
+	
+}
+
+

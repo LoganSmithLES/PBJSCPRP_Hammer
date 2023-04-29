@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 		"models/props_pipes/metal_pipe_002_valve_skin1"
+	"$blendtintbybasealpha"	"1"
+	"$bumpmap"		"models/props_pipes/metal_pipe_002_valve_normal"
+
+	"$detailscale" 		"20"
+	"$detailblendfactor" 	"0.8"
+	"$detailblendmode" "0"
+}

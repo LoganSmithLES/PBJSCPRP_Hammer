@@ -1,0 +1,24 @@
+"vertexlitgeneric"
+{
+	$basetexture "consilio/metal_trims/edges_d_l"
+	$bumpmap "consilio/metal_trims/edges_n"
+	$surfaceprop metal
+
+	"$normalmapalphaenvmapmask" 	"1"
+	
+	"$envmap" 						"env_cubemap"
+	"$envmaptint" 					"[.2 .2 .2]"
+	
+	"$phong" 						"1"
+	"$phongexponent" 				"7"
+	"$phongboost"					"1"
+	"$phongfresnelranges" 			"[.4 .8 30]"
+
+	"$halflambert" 					"1"
+	"$multipass" 					"1"
+
+	// rim lighting parameters
+	"$rimlight" 					"1"				// to enable rim lighting (requires phong)
+	"$rimlightexponent" 			"35"			// exponent for phong component of rim lighting
+	"$rimlightboost" 				".2"			// boost for ambient cube component 
+}

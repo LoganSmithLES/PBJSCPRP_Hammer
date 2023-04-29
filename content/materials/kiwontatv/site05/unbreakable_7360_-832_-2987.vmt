@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/glass/unbreakable.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_mg_area14_v1000_v2/c7360_-832_-2987"
+	}
+}

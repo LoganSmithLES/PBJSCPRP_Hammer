@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/LAB/C3A2A_W1A_NO_LINE.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_mg_site85_v2/c-9926_4014_-666"
+	}
+}

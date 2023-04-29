@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_office/sink_003_skin1"
+	"$bumpmap"		"models/props_office/sink_003_normal"
+
+
+
+	"$halflambert" 		"1"
+
+	"$phong" 		"1"
+	"$phongexponent" 	"20"
+	"$phongboost" 		"4"
+	"$phongfresnelranges" 	"[0.9 0.3 0.7]"
+
+	"$envmap"		"env_cubemap"
+	"$envmaptint" 		"[0.1 0.11 0.12]"
+	"$basetexturealphaenvmapmask"	"1"
+}

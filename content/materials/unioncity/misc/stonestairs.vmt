@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "unioncity/misc/stonestairs"
+	
+	$surfaceprop concrete
+
+}

@@ -1,0 +1,17 @@
+"LightmappedGeneric"
+{
+
+	"$detail" "detail/noise_detail_01"
+	"$detailscale" 7.44	// Fits the detail texture onto the material the given number of times. Generally around 7 or 8 for a 128px detail texture; default is 4. 
+	"$detailblendfactor" 0.9	// Intensity of the detail's darkening of the albedo. Effectively an $alpha value. 
+	"$detailblendmode" 0	// Enable to make the detail texture darken the albedo more. 
+
+	"$basetexture" "Metal/metalpipe002a"
+	"$bumpmap" "Metal/metalpipe003a_normal"
+	"$surfaceprop" "metal"
+	//"////$envmaptint" "[ 0.75 0.75 0.75 ]"
+	//"////$envmap" "env_cubemap"
+	//"$normalmapalphaenvmapmask" 1
+	//"////$envmapcontrast" 1
+	//"////$envmapsaturation" 1
+}

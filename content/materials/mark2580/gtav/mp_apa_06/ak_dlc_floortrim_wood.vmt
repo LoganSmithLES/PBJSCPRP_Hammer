@@ -1,0 +1,18 @@
+"LightmappedGeneric"
+{
+	"$basetexture"              "mark2580/gtav/mp_apa_06/ak_dlc_floortrim_wood"
+    "$bumpmap"                  "mark2580/gtav/mp_apa_06/ak_dlc_floor_wood_n"
+
+    "$detail"                   "mark2580/gtav/mp_apa_06/ak_dlc_floor_wood_s"
+	"$detailscale"              "1"
+	"$detailblendfactor"        "1.0"
+	"$detailblendmode"          "0" 
+	
+	"$surfaceprop"              "wood"
+
+	"$envmap"                   "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmapcontrast"           "1"
+	"$envmapsaturation"         "1"
+	"$envmaptint"               "[ .25 .25 .25 ]"
+}

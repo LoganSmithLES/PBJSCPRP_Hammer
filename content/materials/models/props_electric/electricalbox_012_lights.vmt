@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_electric/electricalbox_012_lights"
+	"$selfillum"		"1"
+}

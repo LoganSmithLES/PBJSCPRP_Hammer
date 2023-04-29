@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 		"models/props_HVAC/air_duct_set_001_skin1"
+	"$bumpmap"		"models/props_HVAC/air_duct_set_001_normal"
+
+	"$envmap"		"env_cubemap"
+	"$envmaptint" 		"[0.07 0.07 0.07]"
+	"$basetexturealphaenvmapmask"	"1"
+}

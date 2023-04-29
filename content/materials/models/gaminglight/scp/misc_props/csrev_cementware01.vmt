@@ -1,0 +1,12 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "concrete\csrev_cementware01"
+	"$surfaceprop"  "concrete"
+	"%keywords" "bms, csrev"
+
+        "$detail" "detail\bm_concrete_detail_01"
+	"$detailscale" "2"
+	"$detailblendfactor" .8
+	"$detailblendmode" 0
+		
+}
